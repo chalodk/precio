@@ -1,0 +1,2 @@
+makemigrations series
+migrate
